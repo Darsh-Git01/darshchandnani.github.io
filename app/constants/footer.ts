@@ -5,30 +5,31 @@ export const FOOTER_LINKS: FooterLink[] = [
     name: 'LinkedIn',
     hoverText: 'Connect with me',
     icon: 'icons/linkedin.svg',
-    url: 'https://www.linkedin.com/in/mohit-virli-4780b6112/',
+    url: 'www.linkedin.com/in/darsh-chandnani-79801931a',
   },
   {
     name: 'GitHub',
     hoverText: 'Open Sourcing',
     icon: 'icons/github.svg',
-    url: 'https://github.com/mohitvirli',
+    url: 'https://github.com/Darsh-Git01',
   },
-  {
-    name: 'Spotify',
-    hoverText: 'Curated playlists',
-    icon: 'icons/spotify.svg',
-    url: 'https://open.spotify.com/user/21hr4w2hzp4ceidewwsb4bxoy',
+	{
+    name: 'Medium',
+    hoverText: 'Morning Reads',
+    icon: 'icons/medium.svg',
+    url: 'https://github.com/Darsh-Git01',
   },
+ 
   {
     name: 'Instagram',
-    hoverText: '@clevirli',
+    hoverText: '@darshc_007',
     icon: 'icons/instagram.svg',
-    url: 'https://www.instagram.com/clevirli/',
+    url: 'https://www.instagram.com/darshc_007/',
   },
   {
     name: 'Resume',
     hoverText: 'Download',
     icon: 'icons/file.svg',
-    url: './Mohit Virli - Resume.pdf',
+    url: '',
   }
 ];
