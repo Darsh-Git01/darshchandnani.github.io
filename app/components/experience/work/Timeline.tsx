@@ -52,7 +52,7 @@ const TimelinePoint = ({ point, diff }: { point: WorkTimelinePoint, diff: number
             <Text {...titleProps} fontSize={0.5} maxWidth={3} position={[0, -0.2, 0]}>
               {point.title}
             </Text>
-            <Text {...textProps} fontSize={0.18} position={[0, -0.65 , 0]}>
+            <Text {...textProps} fontSize={0.18} position={[0, -0.8 , 0]}>
               {point.subtitle}
             </Text>
           </group>
