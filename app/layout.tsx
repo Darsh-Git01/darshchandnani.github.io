@@ -14,12 +14,12 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mohit Virli ✌️",
-  description: "A frontend developer by profession, a creative at heart.",
-  keywords: "Mohit Virli, Frontend Engineer, React Developer, Three.js, Creative Developer, Web Development, Angular, JavaScript, TypeScript, Portfolio",
-  authors: [{ name: "Mohit Virli" }],
-  creator: "Mohit Virli",
-  publisher: "Mohit Virli",
+  title: "Darsh Chandnani",
+  description: "An AI engineer with a strong robotics background, focused on building automated systems powered by scalable ML models.",
+  keywords: "Darsh Chandnani, AI Engineer, Developer, Robotics , Python, Java, Portfolio",
+  authors: [{ name: "Darsh Chandnani" }],
+  creator: "Darsh Chandnani",
+  publisher: "Darsh Chandnani",
   formatDetection: {
     email: false,
     address: false,
@@ -36,17 +36,17 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
-    url: "https://mohitvirli.github.io",
-    siteName: "Mohit Virli's Portfolio",
+    title: "Darsh Chandnani- AI Engineer",
+    description: "An AI engineer with a strong robotics background, focused on building automated systems powered by scalable ML models.",
+    url: "https://darshchandnani.github.io",
+    siteName: "Darsh Chandnani's Portfolio",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
+    title: "Darsh Chandnani- AI Engineer"",
+    description: "An AI engineer with a strong robotics background, focused on building automated systems powered by scalable ML models.",
   },
   verification: {
     google: "GsRYY-ivL0F_VKkfs5KAeToliqz0gCrRAJKKmFkAxBA",
