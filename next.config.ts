@@ -1,12 +1,21 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  // skip strict mode
   reactStrictMode: false,
+
+
+  output: "export",
+
+
+  basePath: "/darshchandnani.github.io",
+  assetPrefix: "/darshchandnani.github.io/",
+
   env: {
-    googleAnalyticsId: process.env.NODE_ENV === "production" ? process.env.GA_MEASUREMENT_ID : "",
-  }
+    googleAnalyticsId:
+      process.env.NODE_ENV === "production"
+        ? process.env.GA_MEASUREMENT_ID
+        : "",
+  },
 };
 
 export default nextConfig;
