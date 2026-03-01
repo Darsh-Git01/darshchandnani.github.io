@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Darsh Chandnani- AI Engineer"",
+    title: "Darsh Chandnani- AI Engineer",
     description: "An AI engineer with a strong robotics background, focused on building automated systems powered by scalable ML models.",
   },
   verification: {
