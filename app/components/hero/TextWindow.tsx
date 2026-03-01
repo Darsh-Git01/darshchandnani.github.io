@@ -32,7 +32,7 @@ const TextWindow = () => {
         {...fontProps}
         scale={[1, -1, 1]}
         rotation={[0, 0,  -Math.PI / 2]}>
-        FRONTEND ENGINEER
+        AI ENGINEER
       </Text>
 
       <Text color="white" anchorX="right" anchorY="middle"
@@ -41,7 +41,7 @@ const TextWindow = () => {
         fontSize={1.3}
         position={[0.12, 0, -1.4]}
         rotation={[0, 0,  -Math.PI / 2]}>
-        DESIGNER. DEVELOPER
+        AI ENGINEER . DEVELOPER
       </Text>
 
       <group position={[-0.45, 0, -0.3]}>
@@ -50,7 +50,7 @@ const TextWindow = () => {
           scale={[1, -1, 1]}
           fontSize={0.8}
           rotation={[0, -Math.PI / 2,  -Math.PI / 2]}>
-          DESIGNER. DUMBASS.
+          ML RESEARCHER.
         </Text>
 
         <Text color="white" anchorX="left" anchorY="middle"
