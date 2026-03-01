@@ -1,24 +1,13 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-
   output: "export",
 
- 
   images: {
     unoptimized: true,
   },
 
- 
-  reactStrictMode: false,
-
-
-  env: {
-    googleAnalyticsId:
-      process.env.NODE_ENV === "production"
-        ? process.env.GA_MEASUREMENT_ID
-        : "",
-  },
+  trailingSlash: true,
 };
 
 export default nextConfig;
