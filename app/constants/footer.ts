@@ -17,7 +17,7 @@ export const FOOTER_LINKS: FooterLink[] = [
     name: 'Medium',
     hoverText: 'Morning Reads',
     icon: 'icons/medium.svg',
-    url: 'https://github.com/Darsh-Git01',
+    url: 'https://medium.com/@darshchandnani2',
   },
  
   {
