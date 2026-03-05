@@ -14,7 +14,6 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://darshchandnani-github-io.vercel.app"),
   title: "Darsh Chandnani",
   description: "An AI engineer with a strong robotics background, focused on building automated systems powered by scalable ML models.",
   keywords: "Darsh Chandnani, AI Engineer, Developer, Robotics , Python, Java, Portfolio",
@@ -39,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Darsh Chandnani- AI Engineer",
     description: "An AI engineer with a strong robotics background, focused on building automated systems powered by scalable ML models.",
-    url: "https://darshchandnani-github-io.vercel.app",
+    url: "https://darshchandnani.github.io",
     siteName: "Darsh Chandnani's Portfolio",
     locale: "en_US",
     type: "website",
